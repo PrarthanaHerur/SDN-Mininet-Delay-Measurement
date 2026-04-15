@@ -92,3 +92,18 @@ This project demonstrates how SDN can be used to monitor and analyze network per
 
 ## 👩‍💻 Author
 Prarthana Herur
+---
+
+## 📸 Screenshots
+
+### Controller Running
+![Controller](controller.png)
+
+### Mininet Topology
+![Mininet](mininet.png)
+
+### Ping All
+![PingAll](pingall.png)
+
+### Delay Measurement
+![Delay](delay1.png)(delay2.png)
