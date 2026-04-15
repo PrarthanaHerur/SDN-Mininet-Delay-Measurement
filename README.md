@@ -106,4 +106,5 @@ Prarthana Herur
 ![PingAll](pingall.png)
 
 ### Delay Measurement
-![Delay](delay1.png)(delay2.png)
+![Delay](delay1.png)
+![Delay](delay2.png)
